@@ -1,2 +1,2 @@
 # Graphing-Calculator-
-Free Java-based graphing calculator 
+Free Python-based graphing calculator 
